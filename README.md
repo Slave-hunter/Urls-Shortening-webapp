@@ -1,16 +1,16 @@
-# Urls-Shortening-software
+# About this project
 
-A webapplication to shorten urls
-## Technologies Used
+a tool to cut urls
 
-- [React.js](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework for rapidly building custom designs.
 
-## Getting Started
+## Frontend
 
-Instructions on how to get a copy of the project up and running on your local machine.
+## Tech stack 
+- tailwindcss
+- reactjs
+- js
 
-- cd (file_name)
-- npm install
-- npm start
 
+### Preview
+
+![Preview](./Design/preview-1.png)
